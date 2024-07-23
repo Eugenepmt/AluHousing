@@ -33,7 +33,7 @@ Installation/launch:
 1. Download the repository to any folder.
 2. Open the terminal.
 3. Type cd path/to/your/folder.
-4. Type python3 AluBolts. Enjoy.
+4. Type python3 szv2.py. Enjoy.
 5. 
 //
 
@@ -42,4 +42,4 @@ Installation/launch:
 1. Cкачайте репозиторий в любую папку.
 2. Откройте терминал.
 3. Введите cd путь/к/вашей/папке.
-4. Введите python3 AluBolts.
+4. Введите python3 szv2.py.
