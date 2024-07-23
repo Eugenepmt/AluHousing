@@ -7,11 +7,11 @@ Login: Иванов. Password: 0000.
 
 Libraries:
 
-tkinter
-datetime
-time
-PIL
-gc
+- tkinter
+- datetime
+- time
+- PIL
+- gc
 
 //
 
@@ -22,11 +22,11 @@ Tkinter приложение для измерения алюминиевых к
 
 Библиотеки:
 
-tkinter
-datetime
-time
-PIL
-gc
+- tkinter
+- datetime
+- time
+- PIL
+- gc
 
 Installation/launch:
 
