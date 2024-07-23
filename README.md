@@ -30,15 +30,16 @@ Tkinter приложение для измерения алюминиевых к
 
 Installation/launch:
 
-Download the repository to any folder.
-Open the terminal.
-Type cd path/to/your/folder
-Type python3 AluBolts. Enjoy.
+1. Download the repository to any folder.
+2. Open the terminal.
+3. Type cd path/to/your/folder.
+4. Type python3 AluBolts. Enjoy.
+5. 
 //
 
 Установка/запуск:
 
-Скачайте репозиторий в любую папку.
-Откройте терминал.
-Введите cd путь/к/вашей/папке
-Введите python3 AluBolts.
+1. Cкачайте репозиторий в любую папку.
+2. Откройте терминал.
+3. Введите cd путь/к/вашей/папке.
+4. Введите python3 AluBolts.
