@@ -34,7 +34,7 @@ Installation/launch:
 2. Open the terminal.
 3. Type cd path/to/your/folder.
 4. Type python3 szv2.py. Enjoy.
-5. 
+   
 //
 
 Установка/запуск:
