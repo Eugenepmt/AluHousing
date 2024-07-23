@@ -1,4 +1,5 @@
 AluHousing
+
 A tkinter app for aluminum lugs and cons measuring. Written for screens with 1920x1080 resolution. Other screens may not display the app correctly. Use only with UTF-8! 
 It was originally made for debian OS and Raspberry pi OS, so Windows can display it incorrect. Run only with X11. Wayland does not support tkinter. 
 
